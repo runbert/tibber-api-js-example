@@ -1,0 +1,18 @@
+{
+  "name": "tibber-api-js-example",
+  "description": "A javascript example of how to use tibber-api by @bisand.",
+  "version": "1.0.0",
+  "license": "ISC",
+  "keywords": [
+    "tibber"
+  ],
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "author": {
+    "name": "Johan Runbert"
+  },
+  "dependencies": {
+    "tibber-api": "5.1.8"
+  }
+}
